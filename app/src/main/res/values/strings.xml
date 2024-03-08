@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android  Article</string>
+    <string name="title_jetpack_compose_article">Jetpack Compose Article</string>
+    <string name="compose_short_desc">This is the second app I\'ve done using the Kotlin language</string>
+    <string name="compose_long_desc">Coding with Kotlin means less hassle and more productivity. This JVM-based language offers an expressive syntax, a strong intuitive type system, and great tooling support—plus seamless interoperability with existing Java code, libraries, and frameworks. Kotlin is general purpose, safe, pragmatic, and the premier language of Android development. While the language has grown beyond its initial Java-centric focus, you can still use and integrate with your favorite Java tools and libraries, including Spring.</string>
+</resources>
